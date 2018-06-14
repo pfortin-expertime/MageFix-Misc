@@ -15,4 +15,6 @@ No configuration needed.
 
 Version
 --
+0.0.2 - Fix space issue in  di.xml
+
 0.0.1 - Initial commit
