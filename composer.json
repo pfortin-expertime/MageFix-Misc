@@ -1,0 +1,16 @@
+{
+    "name": "pfortin-expertime/MageFix-Misc",
+    "description": "MageFix-Misc",
+    "require": {
+        
+    },
+    "type": "magento2-module",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "MageFix\\Misc\\": ""
+        }
+    }
+}
